@@ -1,0 +1,40 @@
+leftnav:
+- identifier: d2862658-e4f2-43e4-9c86-51741963f6af
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 8c6e2dd8-6151-7cd5-034e-1c835f73f138
+  name: Instructor Background and Motivation
+  pageRef: /pages/instructor-insights/instructor-background-and-motivation-for-teaching-the-course
+  parent: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
+  weight: 30
+- identifier: 45c15888-e1c8-5374-0d60-74fefa307caa
+  name: Gameplay, Connections and Contributors
+  pageRef: /pages/instructor-insights/gameplay-and-advice-for-educators
+  parent: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
+  weight: 40
+- identifier: d0e95a07-2340-2b6a-9dbc-be0dcb2bab64
+  name: Challenges and Learning Opportunities
+  pageRef: /pages/instructor-insights/challenges-and-learning-opportunities
+  parent: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
+  weight: 50
+- identifier: 6f667a09-25e7-17a0-d75b-3864b5c23e2a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 60
+- identifier: 45543cd6-41f2-d266-aefe-9850f6327878
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 70
+- identifier: 9cc41ad5-a925-d58d-bc2d-4d26e152ab0f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 068a648d-2fc9-22ea-3485-8b6c418a0807
+  name: Poker Software
+  pageRef: /pages/poker-software
+  weight: 90
