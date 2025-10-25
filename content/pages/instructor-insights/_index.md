@@ -15,7 +15,7 @@ This page focuses on the course _15.S50 Poker Theory and Analytics_ as it was ta
 
 This course takes a broad-based look at poker theory and applications of poker analytics to investment management and trading.
 
-MIT Sloan News published an article on how Kevin Desmond links poker strategy to risk management in this course: {{% resource_link "c75aafaa-89c4-4d94-980d-e398a9b6ab6f" "_Game Theory: What Poker and Finance Have in Common_" %}}.
+MIT Sloan News published an article on how Kevin Desmond links poker strategy to risk management in this course: [_Game Theory: What Poker and Finance Have in Common_](http://mitsloan.mit.edu/newsroom/2015-poker-theory-analytics-mit-opencourseware.php).
 
 ## Course Outcomes
 
@@ -104,7 +104,7 @@ The majority of in-class time was spent reviewing core concepts and solving exam
 
 ### Out of Class
 
-Outside of the classroom, a significant amount of time was spent playing poker in the online league, hosted by {{% resource_link "b261b1db-cb22-4b22-893c-3ec7bd5828c1" "PokerStars" %}}. The average player played approximately 5000 hands of poker (the equivalent of about a year’s worth of live play). In addition, each of the three homework assignments required about 1-2 hours of work. For some students, about 2 hours per week was spent in review sessions.
+Outside of the classroom, a significant amount of time was spent playing poker in the online league, hosted by [PokerStars](http://www.pokerstars.net/). The average player played approximately 5000 hands of poker (the equivalent of about a year’s worth of live play). In addition, each of the three homework assignments required about 1-2 hours of work. For some students, about 2 hours per week was spent in review sessions.
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
