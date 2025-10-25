@@ -16,7 +16,7 @@ _In this section, Kevin Desmond shares challenges he faced in teaching _15.S50 P
 
 {{< resource 25c3d91e-dfc7-6d16-8c11-b91cb60888cc >}}
 
-Image courtesy of Max Bisschop on {{% resource_link "60c72544-e892-4709-ba55-2f8dbb8310e6" "Flickr" %}}. License: CC BY-SA-NC.
+Image courtesy of Max Bisschop on [Flickr](https://www.flickr.com/photos/74449165@N00/3015309301). License: CC BY-SA-NC.
 
 One challenge I faced in teaching this course was that the level of experience students had with poker varied substantially, ranging from students who could realistically play at a competitive level to those who still needed to learn the rules of poker. I decided to keep the lectures advanced, so that everyone would benefit from the time in class, and I quickly added several recitations during the week to help students who were struggling with concepts or needed a refresher on poker in general.
 
