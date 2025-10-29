@@ -26,7 +26,7 @@
     "website": "15-s50-poker-theory-and-analytics-january-iap-2015"
   },
   "course_title": "Poker Theory and Analytics",
-  "course_description": "This course takes a broad-based look at poker theory and applications of poker analytics to investment management and trading.\n\nThis course is offered during the [Independent Activities Period (IAP)](http://web.mit.edu/IAP/), which is a special 4-week term at MIT in January. IAP provides members of the MIT community including students, faculty, staff, and alums with an opportunity to organize, sponsor and participate in a wide variety of activities and topics that are often outside of the regular MIT curriculum.\n\n**Faculty Advisor**: Paul Mende\n",
+  "course_description": "This course takes a broad-based look at poker theory and applications of poker analytics to investment management and trading.\n\nThis course is offered during the {{% resource_link \"5f699e45-9f93-4746-996b-f57be8e9c7ec\" \"Independent Activities Period (IAP)\" %}}, which is a special 4-week term at MIT in January. IAP provides members of the MIT community including students, faculty, staff, and alums with an opportunity to organize, sponsor and participate in a wide variety of activities and topics that are often outside of the regular MIT curriculum.\n\n**Faculty Advisor**: Paul Mende\n",
   "department_numbers": [
     "15"
   ],
